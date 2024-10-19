@@ -1,0 +1,6 @@
+[submodule "_sass/shared"]
+	path = _sass/shared
+	url = git@github.com:avtotrainer/shared-scss.git
+[submodule "assets/css/_sass/shared"]
+	path = assets/css/_sass/shared
+	url = git@github.com:avtotrainer/shared-scss.git

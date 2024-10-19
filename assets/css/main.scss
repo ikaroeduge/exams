@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+// გავლილია
+@import 'shared/variables';
+// გავლილია
+@import 'shared/base';
+// გავლილია
+@import 'shared/code';
+// გავლილია
+@import 'shared/post';
+// გავლილია  
+@import 'shared/syntax';
+//
+@import 'shared/layout';
+// გავლილია
+@import 'shared/pagination';
+// ეს უნდა გავიარო, 
+@import 'shared/catalogue';
+//
+@import 'shared/404';
+//
+@import 'shared/tags';
+
+
