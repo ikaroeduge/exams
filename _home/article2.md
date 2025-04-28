@@ -1,5 +1,5 @@
 ---
-layout: home_article
+layout: home
 title: "Заголовок статьи 1"
 author: "Имя Автора"
 date: 2024-06-12
